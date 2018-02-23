@@ -13,3 +13,6 @@ D:\Visual Studio Solutions\StudentProfile-ICE2\StudentProfile\obj\Debug\StudentP
 D:\Visual Studio Solutions\ICE2-StudentProfile\StudentProfile\bin\Debug\StudentProfile.exe.config
 D:\Visual Studio Solutions\ICE2-StudentProfile\StudentProfile\obj\Debug\StudentProfile.exe
 D:\Visual Studio Solutions\ICE2-StudentProfile\StudentProfile\obj\Debug\StudentProfile.pdb
+D:\Visual Studio Solutions\ICE2-StudentProfile\StudentProfile\obj\Debug\StudentProfile.csprojResolveAssemblyReference.cache
+D:\Visual Studio Solutions\ICE2-StudentProfile\StudentProfile\bin\Debug\StudentProfile.exe
+D:\Visual Studio Solutions\ICE2-StudentProfile\StudentProfile\bin\Debug\StudentProfile.pdb
